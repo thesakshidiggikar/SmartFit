@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter App Demo for Beginners 
 
 A new Flutter project.
 
